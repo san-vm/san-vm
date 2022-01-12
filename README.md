@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=san-vm)
 
-- 🤝 I’m looking for help with [AI6 - Voice Assistant](https://github.com/san-vm/AI1)
+- 🤝 I’m looking for help with [AI6 - Voice Assistant](https://github.com/san-vm/AI6)
 
 - 👨‍💻 All of my projects are available at [ProModders](https://promodders.com)
 
