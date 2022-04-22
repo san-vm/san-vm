@@ -67,5 +67,5 @@
 <br>
 <hr>
 <p align="center">
-Developed with ❤️ in INDIA
+Developer from ❤️ INDIA
 </p>
