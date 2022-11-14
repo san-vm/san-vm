@@ -10,23 +10,15 @@
 
 - 📫 How to reach me **sanjaykumar.vm@gmail.com**
 
-- 📄 Know about my experiences [ProModders](https://promodders.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/sanjayvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
-<a href="https://instagram.com/s_0yz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="s_0yz" height="30" width="40" /></a>
-<a href="https://instagram.com/s_0yz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_0yz" height="30" width="40" /></a>
+<a href="https://instagram.com/san__vm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="san__vm" height="30" width="40" /></a>
+<a href="https://instagram.com/san__vm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="san__vm" height="30" width="40" /></a>
 
 </p>
-
-<br>
-<h4>If you are a business in need of a Webiste, Software or Mobile Application, send us your detailed requirement on our Website, Email, Call or Whatapp.</h4>
-
-[Visit Website / Contact US](https://promodders.com)
-
-<p><img align="center" src="https://promodders.com/wp-content/uploads/2020/09/circle-favi.png" height="50" width="50"> ProModders, we are a Bengaluru based Software company.</p>
 
 <br>
 
