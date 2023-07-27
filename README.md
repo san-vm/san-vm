@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sanjay VM</h1>
 <h3 align="center">A passionate Full Stack developer from ❤️ INDIA</h3>
 <h4 align="center">React, React Native, ExpressJS & Django</h4>
-<br>
+
+<a href="https://www.linkedin.com/in/sanjayvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
+
 
 ![](https://komarev.com/ghpvc/?username=san-vm)
+
 
 - 🤝 I’m looking for help with **[AI6 - Voice Assistant](https://github.com/san-vm/AI6)**
 
 - 📫 How to reach me **sanjaykumar.vm@gmail.com**
 
-<a href="https://www.linkedin.com/in/sanjayvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
 </p>
 
 
@@ -57,22 +59,15 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=san-vm&theme=tokyonight&count_private=true&show_icons=true&cache_seconds=900)
+![](https://github-readme-stats.vercel.app/api?username=san-vm&theme=tokyonight&count_private=true&show_icons=true&cache_seconds=900) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san-vm&theme=tokyonight)](https://github.com/san-vm)
 
 <details>
 	<summary>GitHub Achievements</summary>
 	<br/>
-<p align="left"> <a href="https://github.com/san-vm"><img src="https://github-profile-trophy.vercel.app/?username=san-vm" alt="san-vm" /></a></p>
+<p align="left"> <a href="https://github.com/san-vm"><img src="https://github-profile-trophy.vercel.app/?username=san-vm&theme=tokyonight" alt="san-vm" /></a></p>
 
 </details>
 
-<details>
-	<summary>Top Languages</summary>
-	<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=san-vm)](https://github.com/san-vm)
-</details>
-
-<br>
 <hr>
 <p align="center">
 Developer from ❤️ INDIA
