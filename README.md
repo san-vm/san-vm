@@ -1,5 +1,6 @@
+<a href="https://www.linkedin.com/in/sanjayvm" target="blank" style="position: absolute; right: 0"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Sanjay VM</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from ❤️ INDIA</h3>
 <h4 align="center">React, React Native, ExpressJS & Django</h4>
 <br>
 
@@ -54,15 +55,9 @@
 
 <img alt="Sneh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=san-vm&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-
-<br>
-<hr>
-<p align="center">
-Developer from ❤️ INDIA
-</p>
 <br>
 
-![san-vm's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-vm&theme=aura&count_private=true&show_icons=true&cache_seconds=900)
+![](https://github-readme-stats.vercel.app/api?username=san-vm&theme=tokyonight&count_private=true&show_icons=true&cache_seconds=900)
 
 <details>
 	<summary>GitHub Achievements</summary>
@@ -70,9 +65,16 @@ Developer from ❤️ INDIA
 <p align="left"> <a href="https://github.com/san-vm"><img src="https://github-profile-trophy.vercel.app/?username=san-vm" alt="san-vm" /></a></p>
 
 </details>
-<details>
-		<summary>Top Languages</summary>
-		<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san-vm)](https://github.com/san-vm)
+<details>
+	<summary>Top Languages</summary>
+	<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=san-vm)](https://github.com/san-vm)
 </details>
+
+<br>
+<hr>
+<p align="center">
+Developer from ❤️ INDIA
+</p>
+<br>
