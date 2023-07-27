@@ -1,4 +1,3 @@
-<a href="https://www.linkedin.com/in/sanjayvm" target="blank" style="position: absolute; right: 0"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Sanjay VM</h1>
 <h3 align="center">A passionate Full Stack developer from ❤️ INDIA</h3>
 <h4 align="center">React, React Native, ExpressJS & Django</h4>
@@ -10,6 +9,7 @@
 
 - 📫 How to reach me **sanjaykumar.vm@gmail.com**
 
+<a href="https://www.linkedin.com/in/sanjayvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
 </p>
 
 
