@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sanjay VM</h1>
-<h3 align="center">A passionate Full Stack developer from India..</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<h4 align="center">React, React Native, ExpressJS & Django</h4>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=san-vm)
 
-- 🤝 I’m looking for help with [AI6 - Voice Assistant](https://github.com/san-vm/AI6)
-
-- 👨‍💻 All of my projects are available at [ProModders](https://promodders.com)
+- 🤝 I’m looking for help with **[AI6 - Voice Assistant](https://github.com/san-vm/AI6)**
 
 - 📫 How to reach me **sanjaykumar.vm@gmail.com**
 
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,9 +45,34 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-<br>
+
+### Contribution Graph :
+
+<p align="center">
+		<img src="https://streak-stats.demolab.com?user=san-vm&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
+</p>
+
+<img alt="Sneh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=san-vm&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+
 <br>
 <hr>
 <p align="center">
 Developer from ❤️ INDIA
 </p>
+<br>
+
+![san-vm's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-vm&theme=aura&count_private=true&show_icons=true&cache_seconds=900)
+
+<details>
+	<summary>GitHub Achievements</summary>
+	<br/>
+<p align="left"> <a href="https://github.com/san-vm"><img src="https://github-profile-trophy.vercel.app/?username=san-vm" alt="san-vm" /></a></p>
+
+</details>
+<details>
+		<summary>Top Languages</summary>
+		<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san-vm)](https://github.com/san-vm)
+</details>
