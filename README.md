@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from ❤️ INDIA</h3>
 <h4 align="center">React, React Native, ExpressJS & Django</h4>
 
-<a href="https://www.linkedin.com/in/sanjayvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-vm" height="30" width="40" /></a>
 
 
 ![](https://komarev.com/ghpvc/?username=san-vm)
