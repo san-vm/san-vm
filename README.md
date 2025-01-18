@@ -16,6 +16,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=anaconda,nodejs,javascript,typescript,vite,react,expressjs,nextjs,redux,nginx,aws,azure,androidstudio,apple,figma,arduino,cpp,cs,dotnet,redis,mysql,postgresql,mongodb,firebase,python,django,flask,selenium,docker,kubernetes,dynamodb,java,kotlin,eclipse,tauri,html,git,gitlab,graphql,bash,gradle,jenkins,powershell,qt,opencv,cloudflare,arch,debian,linux,sqlite,rust,svelte,swift,postman,raspberrypi,php,spring,vscode,pytorch,tensorflow&theme=light&perline=20)](https://skillicons.dev)
 
 
